@@ -1,0 +1,8 @@
+{
+  "name": "australian_greens/rpow",
+  "description": "CiviCRM Replay-on-Write Helper (civirpow)",
+  "type": "drupal-module",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
